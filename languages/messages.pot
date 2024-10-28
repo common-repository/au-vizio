@@ -1,0 +1,242 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid   ""
+msgstr  "Project-Id-Version: PACKAGE VERSION\n"
+        "Report-Msgid-Bugs-To: \n"
+        "POT-Creation-Date: 2010-04-03 09:56+0200\n"
+        "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+        "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+        "Language-Team: LANGUAGE <LL@li.org>\n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=CHARSET\n"
+        "Content-Transfer-Encoding: 8bit\n"
+
+#: ../au-vizio.php:160
+msgid   "<strong>Usage:</strong> Paste T-shirts URL's into <em>Raw</em> "
+        "field, (one T-shirt's URL per line), press <em>Convert!</em> button "
+        "and use converted data."
+msgstr  ""
+
+#: ../au-vizio.php:92 ../au-vizio.php:236
+msgid   "Add"
+msgstr  ""
+
+#: ../au-vizio.php:178
+msgid   "Affiliate site ID"
+msgstr  ""
+
+#: ../au-vizio.php:136
+msgid   "Blog post ID (or couple of posts) for which will be displayed t-"
+        "shirt from appropriate group. You can get ID of <em>post</em> or "
+        "<em>page</em> from post/page permalink."
+msgstr  ""
+
+#: ../au-vizio.php:162
+msgid   "Converted"
+msgstr  ""
+
+#: ../au-vizio.php:151
+msgid   "Convertor"
+msgstr  ""
+
+#: ../au-vizio.php:130
+msgid   "Current version"
+msgstr  ""
+
+#: ../au-vizio.php:137
+msgid   "Data about t-shirts that belong to current group, separated with "
+        "pipe. Enter one t-shirt per line. You can get Data about t-shirts "
+        "from URL to t-shirt page, for example:"
+msgstr  ""
+
+#: ../au-vizio.php:186
+msgid   "Default T-shirt price"
+msgstr  ""
+
+#: ../au-vizio.php:134
+msgid   "Description of group that will explain idea of t-shirts in that "
+        "group."
+msgstr  ""
+
+#: ../au-vizio.php:182
+msgid   "Designer username"
+msgstr  ""
+
+#: ../au-vizio.php:241
+msgid   "Donate"
+msgstr  ""
+
+#: ../au-vizio.php:214
+#, php-format
+msgid   "Group %s title"
+msgstr  ""
+
+#: ../au-vizio.php:134
+msgid   "Group title"
+msgstr  ""
+
+#: ../au-vizio.php:191
+msgid   "Groups"
+msgstr  ""
+
+#: ../au-vizio.php:242
+#, php-format
+msgid   "If you are satisfied with AU-VISIO extension, feel free to <a href="
+        "\"%s\">rate it</a> on official WordPress Plugin page. If you wish to "
+        "support further development <a href=\"%s\">contact author or make "
+        "some donation</a>."
+msgstr  ""
+
+#: ../au-vizio.php:135 ../au-vizio.php:217
+msgid   "Keywords"
+msgstr  ""
+
+#: ../au-vizio.php:135
+msgid   "Keywords in blog post for which will be displayed t-shirts from "
+        "appropriate group. Can be empty or contain one or more keywords. "
+        "Multiple keywords are separated by pipe."
+msgstr  ""
+
+#: ../au-vizio.php:170
+msgid   "Main settings"
+msgstr  ""
+
+#: ../au-vizio.php:174
+msgid   "Number of T-shirt groups"
+msgstr  ""
+
+#: ../au-vizio.php:144
+msgid   "One line example in T-shirt list field with noticed data"
+msgstr  ""
+
+#: ../au-vizio.php:103
+msgid   "Options saved"
+msgstr  ""
+
+#: ../au-vizio.php:136 ../au-vizio.php:222
+msgid   "Post ID`s"
+msgstr  ""
+
+#: ../au-vizio.php:161
+msgid   "Raw"
+msgstr  ""
+
+#: ../au-vizio.php:93 ../au-vizio.php:237
+msgid   "Remove"
+msgstr  ""
+
+#: ../au-vizio.php:235
+msgid   "Save Changes"
+msgstr  ""
+
+#: ../au-vizio.php:44
+msgid   "Settings"
+msgstr  ""
+
+#: ../au-vizio.php:274
+msgid   "Show Title"
+msgstr  ""
+
+#: ../au-vizio.php:137 ../au-vizio.php:139
+msgid   "T-shirt ID"
+msgstr  ""
+
+#: ../au-vizio.php:137 ../au-vizio.php:227
+msgid   "T-shirt list"
+msgstr  ""
+
+#: ../au-vizio.php:137 ../au-vizio.php:140
+msgid   "T-shirt name"
+msgstr  ""
+
+#: ../au-vizio.php:141
+msgid   "T-shirt price"
+msgstr  ""
+
+#: ../au-vizio.php:272
+msgid   "Title"
+msgstr  ""
+
+#: ../au-vizio.php:146
+msgid   "Use Converter below to convert T-shirts URL's to apropriate format."
+msgstr  ""
+
+#: ../au-vizio.php:131
+msgid   "Users manual"
+msgstr  ""
+
+#: ../au-vizio.php:52
+msgid   "VIZIOshop"
+msgstr  ""
+
+#: ../au-vizio.php:52
+msgid   "VIZIOshop Options"
+msgstr  ""
+
+#: ../au-vizio.php:231
+msgid   "[ submit ]"
+msgstr  ""
+
+#: ../au-vizio.php:231
+msgid   "[ top ]"
+msgstr  ""
+
+#: ../au-vizio.php:175
+msgid   "auto incremental number"
+msgstr  ""
+
+#: ../au-vizio.php:179
+#, php-format
+msgid   "check ID for your blog in column <em>Banner</em> in <a href=\"%s"
+        "\">sites list</a> on VIZIOshop affiliate page"
+msgstr  ""
+
+#: ../au-vizio.php:187
+#, php-format
+msgid   "default T-shirt price displayed on <a href=\"%s\">T-shirt's page</a>"
+msgstr  ""
+
+#: ../au-vizio.php:141
+#, php-format
+msgid   "default price is %s RSD, but if you add t-shirt with different "
+        "price, type it without decimals. This parameter is optional"
+msgstr  ""
+
+#: ../au-vizio.php:183
+#, php-format
+msgid   "get your username on top of page <a href=\"%s\">designer control "
+        "panel</a>"
+msgstr  ""
+
+#: ../au-vizio.php:140
+msgid   "name of t-shirt, with spaces instead of dashes (highlighted with red "
+        "color)"
+msgstr  ""
+
+#: ../au-vizio.php:229
+msgid   "one t-shirt per line, in format"
+msgstr  ""
+
+#: ../au-vizio.php:145
+msgid   "or without different price:"
+msgstr  ""
+
+#: ../au-vizio.php:215
+msgid   "short description"
+msgstr  ""
+
+#: ../au-vizio.php:224
+msgid   "split with comma, w/o space"
+msgstr  ""
+
+#: ../au-vizio.php:219
+msgid   "split with pipe, w/o space"
+msgstr  ""
+
+#: ../au-vizio.php:139
+msgid   "unique t-shirt number (highlighted with blue color)"
+msgstr  ""

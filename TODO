@@ -1,0 +1,7 @@
+- detaljnije uputstvo sa slikama
+- ne funkcioniše ispravno ako je widget ispod spiska poslednjih članaka (uzima ID poslednjeg članka u listi najnovijih članaka)
+- dodati proveru da li je pojedinačni članak/strana ili index/arhiva
++ JavaScript parser za pretvarane niza linkova do majici u format za AUVS
++ link ka programu VIZIOshop zarada
++ uraditi lokalizaciju (za blogove ćirilica/latinica)
++ napraviti kontrolni panel za dodatak sa poljima za: sajt_id, default reklamu, mogućnost dodavanja više grupa (ID članaka, ključne reči, podaci o reklami - jedna po redu)
